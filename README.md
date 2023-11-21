@@ -23,10 +23,10 @@
 <br>
 
 ## 🚀 goal
-> - Learn DL
+> - Learn Deep Learning, Computer Vision, Pytorch
 > - Preparing for a Technical Interview
 > - Participation in the Kaggle
-> - DL을 학습해 기술 면접을 준비하고, Kaggle 대회 참가를 목표로 합니다. 
+> - DL과 CV, Pytorch를 학습해 기술 면접을 준비하고, Kaggle 대회 참가를 목표로 합니다. 
 
 <br>
 
@@ -41,4 +41,6 @@
 > | week1 (-) | - | - |
 
 ## 📚 reference
-> - 
+> - <a href = 'https://www.youtube.com/watch?v=vT1JzLTH4G4'>Stanford Univ School of Engineering Lecture CS231n</a>
+> - <a href = 'https://tutorials.pytorch.kr/beginner/basics/saveloadrun_tutorial.html'>Pytorch Tutorial</a>
+> - <a href = 'https://wikidocs.net/book/2788'>Pytorch로 시작하는 딥러닝 입문</a>
