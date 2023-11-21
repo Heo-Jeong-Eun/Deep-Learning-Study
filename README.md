@@ -18,6 +18,11 @@
     <td align="center"><a href="https://github.com/JunSeokCheon"><b>Cheon Jun Seok</b></td>
     <td align="center"><a href="https://github.com/enddl3224"><b>Kim Min Ji</b></td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/Heo-Jeong-Eun/Deep-Learning-Study/tree/Jen"><b>Jen</b></td>
+    <td align="center"><a href="https://github.com/Heo-Jeong-Eun/Deep-Learning-Study/tree/Jun"><b>Jun</b></td>
+    <td align="center"><a href="https://github.com/Heo-Jeong-Eun/Deep-Learning-Study/tree/MJ"><b>MJ</b></td>
+  </tr>
 </table>
 
 <br>
