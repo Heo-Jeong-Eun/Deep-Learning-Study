@@ -43,7 +43,7 @@
 
 > | Date | Content | Study(On / Offline) | Assignment |
 > | --- | --- | --- | --- |
-> | 2023-12-17 | - | - |
+> | 2023-12-17 | CS231n : Lecture 1 <br> Pytorch Tutorial : 파이토치(PyTorch) 시작하기 | - |
 
 ## 📚 reference
 > - <a href = 'https://www.youtube.com/watch?v=vT1JzLTH4G4'>Stanford Univ School of Engineering Lecture CS231n</a>
