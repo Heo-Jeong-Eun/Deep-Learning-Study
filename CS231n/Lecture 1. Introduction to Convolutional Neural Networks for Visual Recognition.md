@@ -53,5 +53,13 @@
 
 ### **CS231n Overview**
 
+> CS231n 강의는 **Image Classification**에 초점을 두고 있다. 이와 관련된 **Image Recognition** 문제는 무궁무진하다.
 > 
->
+> 
+> <img width="681" alt="스크린샷 2023-12-14 오후 8 02 06" src="https://github.com/Heo-Jeong-Eun/Deep-Learning-Study/assets/60500256/0c88bcbc-8b87-4d8a-adc2-c7b95bbd2061">
+> 
+> 2010년에서 알고리즘에서 주목해야 할 점은 **여전히 계층적이고, 가장 자리를 감지하며 불변의 개념을 갖고 있다는 것**이다. 
+> 
+> 2012년 **7개의 Layer를 가진 CNN이 개발**되었고, 현재 **AlexNet**으로 알려져있다. 이후 **ImageNet의 우승 알고리즘은 신경망**이었다.  
+> 
+> <img width="681" alt="스크린샷 2023-12-14 오후 8 00 31" src="https://github.com/Heo-Jeong-Eun/Deep-Learning-Study/assets/60500256/4f1f4f22-ced1-43ee-8737-5ea66c298f14">
