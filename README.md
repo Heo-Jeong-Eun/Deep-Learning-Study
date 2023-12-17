@@ -45,6 +45,7 @@
 > | Date | Content | Study(On / Offline) | Assignment |
 > | --- | --- | --- | --- |
 > | 2023-12-17 | CS231n : Lecture 1 <br> Pytorch Tutorial : 파이토치(PyTorch) 시작하기 | - |
+> | 2023-12-23 | CS231n : Lecture 2 <br> Pytorch Tutorial : Introduction to PyTorch on YouTube, 파이토치(PyTorch) 배우기 | - |
 
 ### commit 
 > ```shell
