@@ -48,6 +48,7 @@
 > | 2023-12-23 | CS231n : Lecture 2 <br> Pytorch Tutorial : Introduction to PyTorch on YouTube | - | - |
 > | 2024-01-07 | CS231n : Lecture 3 | - | - |
 > | 2024-01-20 | CS231n : Lecture 4 | - | - |
+> | 2024-01-27 | CS231n : Lecture 5 | - | - |
 
 ### commit 
 > ```shell
