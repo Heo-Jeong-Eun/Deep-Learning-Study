@@ -44,11 +44,11 @@
 
 > | Date | Content | Study(On / Offline) | Assignment |
 > | --- | --- | --- | --- |
-> | 2023-12-17 | CS231n : Lecture 1 <br> Pytorch Tutorial : 파이토치(PyTorch) 시작하기 | - | - |
-> | 2023-12-23 | CS231n : Lecture 2 <br> Pytorch Tutorial : Introduction to PyTorch on YouTube | - | - |
-> | 2024-01-07 | CS231n : Lecture 3 | - | - |
-> | 2024-01-20 | CS231n : Lecture 4 | - | - |
-> | 2024-01-27 | CS231n : Lecture 5 | - | - |
+> | 2023-12-17 | CS231n : Lecture 1 <br> Pytorch Tutorial : 파이토치(PyTorch) 시작하기 | Lecture 1. Review | - |
+> | 2023-12-23 | CS231n : Lecture 2 <br> Pytorch Tutorial : Introduction to PyTorch on YouTube | Lecture 2. Review | - |
+> | 2024-01-07 | CS231n : Lecture 3 | Lecture 3. Review | - |
+> | 2024-01-20 | CS231n : Lecture 4 | Lecture 4. Review | - |
+> | 2024-01-27 | CS231n : Lecture 5 | Lecture 5. Review | - |
 
 ### commit 
 > ```shell
