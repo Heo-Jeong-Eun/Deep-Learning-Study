@@ -1,6 +1,6 @@
-## Lecture 5. Convolutional Neural Networks
+## **Lecture 5. Convolutional Neural Networks**
 
-### Convolutional Neural Network
+### **Convolutional Neural Network**
 
 > **Fully Connected Layer**가 하는 일은 어떤 Vector를 가지고 연산을 하는 것이다. 또한 **Activation은 이 Layer의 출력**이다.
 > 
@@ -64,7 +64,7 @@
 > **Level이 높아질 수록 더 많은 특징을 담고, Layer의 계층에 따라 단순 또는 복잡한 특징이 존재한다.** 
 > 
 
-### Spatial Dimension
+### **Spatial Dimension**
 
 > **32 X 32 X 3 이미지가 있고, 이 이미지를 5 X 5 X 3 Filter를 가지고 연산을 수행할 때, 28 X 28 Activation Map이 생기는 이유**
 > 
