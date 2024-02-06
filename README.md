@@ -49,6 +49,7 @@
 > | 2024-01-07 | CS231n : Lecture 3 | Lecture 3. Review | - |
 > | 2024-01-20 | CS231n : Lecture 4 | Lecture 4. Review | - |
 > | 2024-02-04 | CS231n : Lecture 5 | Lecture 5. Review | - |
+> | 2024-02-10 | CS231n : Lecture 6 | Lecture 6. Review | - |
 
 ### commit 
 > ```shell
