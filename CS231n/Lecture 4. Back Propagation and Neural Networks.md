@@ -1,4 +1,4 @@
-## **Lecture 4. Back Propagation and Neural Networks.**
+## **Lecture 4. Back Propagation and Neural Networks**
 
 ### Back Propagation
 
