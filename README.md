@@ -50,6 +50,7 @@
 > | 2024-01-20 | CS231n : Lecture 4 | Lecture 4. Review | - |
 > | 2024-02-04 | CS231n : Lecture 5 | Lecture 5. Review | - |
 > | 2024-02-10 | CS231n : Lecture 6 | Lecture 6. Review | - |
+> | 2024-02-18 | CS231n : Lecture 7 | Lecture 7. Review | - |
 
 ### commit 
 > ```shell
