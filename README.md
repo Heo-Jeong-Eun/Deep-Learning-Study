@@ -52,6 +52,7 @@
 > | 2024-02-10 | CS231n : Lecture 6. Training Neural Networks 1 | Lecture 6. Review | - |
 > | 2024-02-18 | CS231n : Lecture 7. Training Neural Networks 2 | Lecture 7. Review | - |
 > | 2024-03-02 | CS231n : Lecture 8. Deep Learning Software <br> CS231n : Lecture 9. CNN Archtiectures | Lecture 8-9. Review | - |
+> | 2024-03-09 | CS231n : Lecture 10. Recurrent Neural Networks | Lecture 10. Review | - |
 
 ### commit 
 > ```shell
