@@ -40,7 +40,7 @@
 ### schedule && progress 
 > - 주말까지 정해진 학습 범위를 공부합니다. 
 > - 매주 주말 온 / 오프라인 스터디를 통해 일정 조율 및 학습 내용 복습과 질의응답 시간을 갖고 Kaggle 예제 풀이를 합니다.
-> - 코드나 파일은 Commit Rule에 맞게 '개인' Branch PR을 올립니다. **(main Branch로 Merge X, Assignees에 본인 Tag)**
+> - 코드나 파일은 Commit Rule에 맞게 '개인' Branch PR을 올립니다. **(Assignees에 본인 Tag, Reviewer에 상대방 Tag)**
 
 > | Date | Content | Study(On / Offline) | Assignment |
 > | --- | --- | --- | --- |
